@@ -1,4 +1,4 @@
-This is a basic processor that follows the instruction set as attached under documentation folder. <br />
+This is a basic 32-bit processor that follows the instruction set as attached under documentation folder. <br />
 The plan of the finite state machine of the cpu is also provided in an excel sheet under documentation folder. <br />
 The processor is built assuming that the memory is word addressable. <br />
 The processor is not pipelined yet. <br />
