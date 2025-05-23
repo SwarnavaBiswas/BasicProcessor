@@ -1,4 +1,6 @@
 This is a basic 32-bit processor that follows the instruction set as attached under documentation folder. <br />
+There are 32 internal registers x0 to x31, where x0 is zero register, and x1 is used for jal and jr operations <br />
+The content in output_raw are in decimal <br />
 The plan of the finite state machine of the cpu is also provided in an excel sheet under documentation folder. <br />
 The processor is built assuming that the memory is word addressable. <br />
 The processor is not pipelined yet. <br />
