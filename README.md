@@ -4,7 +4,7 @@ The processor is built assuming that the memory is word addressable. <br />
 The processor is not pipelined yet. <br />
 <br />
 To run an assembly code: <br />
-  **Provide the path of the text files in PATH variable in assembler.py and cpu_sim.sv**
+  **Provide the path of the text files in PATH variable in assembler.py and cpu_sim.sv** <br />
   **Write the code in assembly_file.txt** <br />
   **Provide the decimal inputs in inputs_decimal.txt** <br />
   **Run assembler.py** <br />
